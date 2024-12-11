@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  color: #413d4b;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 500;
+}
+
+a {
+  color: #00e0d0;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.header-wrap {
+  background: #332954 url("../img/bg-header.jpg");
+  background-size: cover;
+}
+
+.header {
+  width: 950px;
+  margin: 0 auto;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
