@@ -93,3 +93,32 @@ a:hover {
   border: 1px solid #00e0d0;
   color: #00e0d0;
 }
+
+.content {
+  width: 950px;
+  margin: 0 auto;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+
+.history {
+  padding-top: 70px;
+  margin-bottom: 70px;
+}
+
+.imgleft {
+  float: left;
+  margin: 15px 100px;
+}
+
+.history-text h2 {
+  text-transform: uppercase;
+  font-size: 22px;
+  margin-bottom: 24px;
+}
+
+.history-text p {
+  font-size: 14px;
+  margin-bottom: 24px;
+  line-height: 22px;
+}
