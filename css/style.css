@@ -167,3 +167,28 @@ a:hover {
   font-size: 16px;
   cursor: pointer;
 }
+
+.footer-wrap {
+  background: #332954 url("../img/bg-footer.jpg");
+  background-size: cover;
+}
+
+.footer {
+  width: 950px;
+  margin: 0 auto;
+  padding: 70px 10px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.footer-logo {
+  float: left;
+}
+
+.footer p {
+  float: right;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 17px;
+}
